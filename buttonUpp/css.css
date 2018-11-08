@@ -1,0 +1,50 @@
+body{
+ display: flex;
+ flex-direction:column;
+ align-content: center;
+ width: 900px;
+ margin: 0 auto;
+ min-height: 2000px;
+ justify-content: space-between;
+}
+
+section{
+ display: flex;
+
+}
+
+.borderGreen{
+  border: 1px solid green;
+}
+
+.borderYellow{
+  border: 1px solid yellow;
+}
+
+.borderRed{
+  border: 1px solid red;
+}
+
+.borderBrown{
+  border: 1px solid brown;
+}
+
+.borderGray{
+  border: 1px solid darkgray;
+}
+
+#rgArrow{
+  position: fixed;
+  top: 50%;
+  right: 10px;
+  width:100px;
+  height: 40px;
+  fill: #585643;
+  fill-opacity: .8;
+  cursor: pointer;
+  transition: all 0.5s ease;  
+}
+
+#rgArrow:hover{
+  fill-opacity: 1;
+}
