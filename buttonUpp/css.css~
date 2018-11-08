@@ -42,7 +42,7 @@ section{
   fill: #585643;
   fill-opacity: 0.8;
   cursor: pointer;
-  transition: all 1s ease 2s;  
+  transition: all 1s ease;  
 }
 #rgArrow rec{
   fill:#b3b3b3;
