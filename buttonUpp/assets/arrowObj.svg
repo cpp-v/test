@@ -1,0 +1,5 @@
+<svg data-mode="start" id="rgArrow" viewBox="0 0 40 40">
+ <rect width="40" height="40" rx="2" ry="2" style_="fill:#b3b3b3"/>
+ <circle cx="20" cy="20" r="18" style_="fill:#e6e6e6"/>
+ <path d="m4 22 16-14 16 14z" style_="fill:#999"/>
+</svg>	
